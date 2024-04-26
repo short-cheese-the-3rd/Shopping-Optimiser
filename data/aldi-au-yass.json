@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Beef Mince",
+        "position": 120
+    },
+    {
+        "name": "Instant Noodles",
+        "position": 580
+    },
+    {
+        "name": "Bananas",
+        "position": 101
+    },
+    {
+        "name": "Greek Yoghurt",
+        "position": 190
+    },
+    {
+        "name": "Milk",
+        "position": 199
+    },
+    {
+        "name": "Juice (Orange)",
+        "position": 180
+    },
+    {
+        "name": "Tandil - Ultra Power Soak",
+        "position": 260,
+        "choice_recommended": true
+    },
+    {
+        "name": "Tandil - Ultra Quick Dry",
+        "position": 260,
+        "choice_recommended": true
+    },
+    {
+        "name": "Tandil - Ultra Odour Neutralising",
+        "position": 260,
+        "choice_recommended": true
+    }
+]
